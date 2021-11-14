@@ -1,6 +1,6 @@
 .father {
     width: 50%;
-    margin: 0 auto;
+    margin: auto;
     /* height: 90%; */
 }
 
@@ -16,6 +16,7 @@
 
 .blue {
     background-color: blue;
+    
 }
 
 .blue p {
@@ -27,6 +28,7 @@
     font-weight: bold;
     font-size: medium;
     vertical-align: middle;
+    margin: 0;
 }
 
 .blue1 {
@@ -93,7 +95,7 @@
     display: inline-block;
     width: 28%;
     /* background-color: grey; */
-    font-family: ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     vertical-align: top;
     margin-left: 10px;
     /* text-align: justify; */
