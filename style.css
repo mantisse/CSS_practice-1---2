@@ -1,0 +1,40 @@
+.box {
+    border-bottom: 1px solid #686666
+}
+
+h1 {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main {
+    width: 95%;
+}
+
+.box p {
+    display: inline-block;
+}
+
+.left {
+    width: 76%;
+    font-weight: bold;
+}
+
+.footer {
+    border-top: 1px solid #686666
+    
+}
+
+h1,
+h2,
+.left,
+.right {
+text-transform: capitalize;
+}
+
+.left {
+    font-weight: bold;
+}
+
+a {
+text-decoration: orangered;
+}
