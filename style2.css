@@ -89,6 +89,7 @@
     width: 30%;
     /* background-color: grey; */
     vertical-align: top;
+    margin-left: 10px;
 }
 
 .red {
@@ -104,8 +105,8 @@
 
 .footer {
     text-align: left;
-    font-size: small;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     color: grey;
 }
