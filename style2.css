@@ -11,6 +11,7 @@
     text-transform: uppercase;
     font-weight: bold;
     text-align: center;
+    margin-bottom: -20px;
 }
 
 .blue {
@@ -43,10 +44,12 @@
 
 .headline {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: x-large;
+    font-size: xx-large;
     color: grey;
     text-transform: uppercase;
     text-align: center;
+    margin-top: -30px;
+    margin-bottom: -30px;
 }
 
 .container {
@@ -75,6 +78,7 @@
     display: block;
     border: dotted black;
     text-align: center;
+    font-size: large;
     font-weight: bold;
     color: red;
     width: 250px;
@@ -87,10 +91,13 @@
 
 .box {
     display: inline-block;
-    width: 30%;
+    width: 28%;
     /* background-color: grey; */
+    font-family: ;
     vertical-align: top;
     margin-left: 10px;
+    /* text-align: justify; */
+    padding-right: 20px;
 }
 
 .red {
